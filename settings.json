@@ -8,7 +8,7 @@
   "server": {
     "ip": "Capitain_nootnoot.aternos.me:25613",
     "port": 25613,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -58,19 +58,19 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
-    "beds": false,
-    "chat": true,
-    "console-commands": true
+    "avoidMobs": false,
+    "combat": false,
+    "beds": true,
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
