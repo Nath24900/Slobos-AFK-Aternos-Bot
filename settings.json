@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Capitain_nootnoot.aternos.me:25613",
+    "ip": "Capitain_nootnoot.aternos.me",
     "port": 25613,
     "version": "1.21.11",
     "try-creative": false
